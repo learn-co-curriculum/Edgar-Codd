@@ -11,4 +11,4 @@ In 1970, while working for IBM, Ted Codd wrote "A Relational Model of Data for L
 
 Don Chamberlin, the co-inventor of SQL said in IBM Research News in April 2003: "I could imagine how those queries would have been represented in CODASYL by programs that were five pages long that would navigate through this labyrinth of pointers and stuff. Codd would sort of write them down as one-liners. These would be queries like, "Find the employees who earn more than their managers."
 
-<a href='https://learn.co/lessons/Edgar-Codd' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Edgar-Codd' title='Edgar "Ted" Codd'>Edgar "Ted" Codd</a> on Learn.co and start learning to code for free.</p>
